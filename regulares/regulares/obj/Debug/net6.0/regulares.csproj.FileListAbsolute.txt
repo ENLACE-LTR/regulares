@@ -1,0 +1,15 @@
+C:\Users\Clases\Desktop\regulares\regulares\bin\Debug\net6.0\regulares.exe
+C:\Users\Clases\Desktop\regulares\regulares\bin\Debug\net6.0\regulares.deps.json
+C:\Users\Clases\Desktop\regulares\regulares\bin\Debug\net6.0\regulares.runtimeconfig.json
+C:\Users\Clases\Desktop\regulares\regulares\bin\Debug\net6.0\regulares.dll
+C:\Users\Clases\Desktop\regulares\regulares\bin\Debug\net6.0\regulares.pdb
+C:\Users\Clases\Desktop\regulares\regulares\obj\Debug\net6.0\regulares.csproj.AssemblyReference.cache
+C:\Users\Clases\Desktop\regulares\regulares\obj\Debug\net6.0\regulares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Clases\Desktop\regulares\regulares\obj\Debug\net6.0\regulares.AssemblyInfoInputs.cache
+C:\Users\Clases\Desktop\regulares\regulares\obj\Debug\net6.0\regulares.AssemblyInfo.cs
+C:\Users\Clases\Desktop\regulares\regulares\obj\Debug\net6.0\regulares.csproj.CoreCompileInputs.cache
+C:\Users\Clases\Desktop\regulares\regulares\obj\Debug\net6.0\regulares.dll
+C:\Users\Clases\Desktop\regulares\regulares\obj\Debug\net6.0\refint\regulares.dll
+C:\Users\Clases\Desktop\regulares\regulares\obj\Debug\net6.0\regulares.pdb
+C:\Users\Clases\Desktop\regulares\regulares\obj\Debug\net6.0\regulares.genruntimeconfig.cache
+C:\Users\Clases\Desktop\regulares\regulares\obj\Debug\net6.0\ref\regulares.dll
